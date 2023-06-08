@@ -1,3 +1,3 @@
-# Trabajo-Elvis C++
+# Trabajo C++
 
 Por: Elvis Arisaca
