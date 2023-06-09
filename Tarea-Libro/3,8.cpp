@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     // Declarar variables
-    double cantidad;
+    double cantidad; // DONDE SE ALMACENA ESTA VARIABLE
     int billetes_500, billetes_200, billetes_100, billetes_50, billetes_20, billetes_10, billetes_5;
     int monedas_2, monedas_1, monedas_50c, monedas_20c, monedas_10c, monedas_5c;
 
